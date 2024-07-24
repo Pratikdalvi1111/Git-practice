@@ -1,2 +1,3 @@
 git init
 more command 
+Now fetch it
